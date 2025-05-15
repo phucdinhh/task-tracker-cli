@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
+
 A command-line interface tool for managing tasks with support for adding, updating, deleting, and tracking task status.
 
 ## Features
